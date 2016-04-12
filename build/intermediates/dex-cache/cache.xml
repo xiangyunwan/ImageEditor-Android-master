@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android-studio\gradle\gradle-2.10-all\gradle-2.8-all\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.4\dd9eeb557650c4ad7394df23f0f5cf27a7cfc697\universal-image-loader-1.9.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dd9eeb557650c4ad7394df23f0f5cf27a7cfc697">
+        <dex dex="D:\android_github\ImageEditor-Android-master\demo\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.4_56effe1451fa77949524dcc1cac43b9faad0ef1b.jar" />
+    </item>
+    <item
+        jar="D:\android_github\ImageEditor-Android-master\demo\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="D:\android_github\ImageEditor-Android-master\demo\build\intermediates\pre-dexed\debug\internal_impl-22.2.1_f4a40ca3b997ed92db68bf280a4e2d545ce25b2c.jar" />
+    </item>
+    <item
+        jar="D:\android_github\ImageEditor-Android-master\demo\build\intermediates\exploded-aar\ImageEditor-Android-master\imageeditlibrary\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1752b6e8a273890ce8b795c78631b9473c57406d">
+        <dex dex="D:\android_github\ImageEditor-Android-master\demo\build\intermediates\pre-dexed\debug\ImageEditor-Android-master-imageeditlibrary-unspecified_a1db5d31013a2e8b59f37a203a04c88feec1a116.jar" />
+    </item>
+    <item
+        jar="D:\android_github\ImageEditor-Android-master\demo\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="D:\android_github\ImageEditor-Android-master\demo\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-22.2.1_2cebbbbc2423ceb99752bc3bbd24ac758690bf8e.jar" />
+    </item>
+    <item
+        jar="F:\JavaIDE\android_sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="D:\android_github\ImageEditor-Android-master\demo\build\intermediates\pre-dexed\debug\support-annotations-22.2.1_52c6c6b9f44284189316a09bc85f874764965bd2.jar" />
+    </item>
+    <item
+        jar="D:\android_github\ImageEditor-Android-master\demo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="D:\android_github\ImageEditor-Android-master\demo\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.2.1_346ecf660b4ebb526a8d6e2403abb389805b2c51.jar" />
+    </item>
+    <item
+        jar="D:\android_github\ImageEditor-Android-master\demo\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="D:\android_github\ImageEditor-Android-master\demo\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.1_62c35e2822955edaa1f186d45a62bc1f95685b24.jar" />
+    </item>
+
+</items>
